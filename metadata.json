@@ -1,0 +1,6 @@
+{
+  "name": "LiSa AI Assistant",
+  "description": "Powerful data analysis tool that generates insights from uploaded datasets, tracks financial trends, and exports professional reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
